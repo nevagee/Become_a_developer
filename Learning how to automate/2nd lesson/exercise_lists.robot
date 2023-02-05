@@ -7,7 +7,7 @@ Library    Collections
 
 *** Test Cases ***
 zkouska
-   
+    Log To Console   ${list1}
     Log To Console   ${\n}${list1}[0]
     Log To Console   ${list1}[1]
     Log To Console   ${list1}[2]
