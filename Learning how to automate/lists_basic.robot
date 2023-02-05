@@ -1,7 +1,7 @@
 *** Settings ***
 
 *** Variables ***    
-# to tvorim pro vsechny test cases a v ***Test Cases*** pro konkretni testy
+# to tvorim pro vsechny test cases a v ***Test Cases*** pro konkretni testy, a cast s log je zpusob, jak to pouzit
 @{list1}  prvni   druhy   treti   # muzu list vytvorit jako globalni promennou nebo uvinitr testu (viz nize 1b). 1.2.3. jsou prvky seznamu
 
 *** Test Cases ***
