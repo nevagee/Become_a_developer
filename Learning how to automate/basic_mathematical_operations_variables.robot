@@ -23,3 +23,5 @@ Dalsi Ukazka
     ${v}=   Evaluate    ${x}-${y}
 
     Log To Console    ${v}
+
+#robot fw nerozlisuje, jestli to je cislo nebo slovo, je mu to asi vic jedno nez pythonu. Kdyz pochopi, ze je to cislo, dokaze si to prevest sam
